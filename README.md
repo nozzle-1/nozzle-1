@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Microservices, Event-Driven Architecture, CQRS<br><br>Domain-Driven Design (DDD), SOLID, DRY, KISS, Clean Architecture, TDD, BDD</p>
+<p align="left">Microservices, Event-Driven Architecture, CQRS<br><br>Domain-Driven Design (DDD), SOLID, DRY, KISS, Clean Architecture, TDD</p>
 
 ###
 
@@ -64,9 +64,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg" height="30" alt="opentelemetry logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pulumi/pulumi-original.svg" height="30" alt="pulumi logo"  />
 </div>
 
 ###
@@ -83,6 +83,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" height="30" alt="elasticsearch logo"  />
 </div>
 
 ###
