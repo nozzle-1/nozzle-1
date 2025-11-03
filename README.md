@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Microservices, Event-Driven Architecture, CQRS<br><br>Domain-Driven Design (DDD), SOLID, DRY, KISS, Clean Architecture, TDD</p>
+<p align="left">Modular-Monolith, Microservices, Event-Driven Architecture, CQRS<br><br>Domain-Driven Design (DDD), SOLID, DRY, KISS, Clean Architecture, TDD</p>
 
 ###
 
